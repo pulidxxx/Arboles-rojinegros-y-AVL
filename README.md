@@ -17,4 +17,6 @@ Esta es una aplicación web desarrollada con **HTML**, **Bootstrap** y **JavaScr
 
 ## Visualizacion de la aplicacion
 
+Se puede acceder por medio del enlace: https://pulidxxx.github.io/Arboles-rojinegros-y-AVL/ 
+
 ![Visualización de la aplicación](imgs/aplicacion.png)
